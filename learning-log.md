@@ -29,4 +29,6 @@ I'm learning Git and version control to track my work.
 - Explore GitHub action for automation
 - practice contribution to open source projects
 
+
+- PR templates save time on every future pull request
 ```
