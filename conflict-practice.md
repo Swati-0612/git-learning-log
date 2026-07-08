@@ -20,5 +20,6 @@
 - Rebase rewrites history, so only use it on local branches
 - Interactive rebase is powerful for cleaning up work before sharing
 - Git stash is a lifesaver for context switching
+- Git stash is a lifesaver for context switching
 
 ```
